@@ -32,6 +32,9 @@ fileserver.example.com {
 
 `sudo snap restart caddy-gael.caddy`
 
+**2026-03-06**
+* v2.11.2 available on amd64
+
 **2026-02-23**
 * v2.11.1 available on amd64
 
